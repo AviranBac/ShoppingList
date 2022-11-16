@@ -1,0 +1,17 @@
+.header {
+    font-size: 1.2rem;
+}
+
+.content {
+    font-size: 1rem;
+}
+
+.shopping-item-seller, .shopping-item-description {
+    margin: 1rem 0;
+}
+
+.shopping-item-images {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}

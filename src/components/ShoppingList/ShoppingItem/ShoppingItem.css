@@ -1,0 +1,12 @@
+.clickable {
+    cursor: pointer;
+}
+
+.shopping-item-content {
+    font-size: 2rem;
+}
+
+img {
+    width: 10rem;
+    height: 10rem;
+}
